@@ -189,7 +189,7 @@ li{
     }
 
     img{
-        width: 700px;
+        width: 100%;
         object-fit: cover;
         background: transparent no-repeat center;
         background-size: cover;
@@ -289,7 +289,7 @@ li{
 
   }
 
-@media screen and (max-width: 1050px) {
+/* @media screen and (max-width: 1050px) {
     img{
         width: 400px;
         object-fit: cover;
@@ -297,4 +297,4 @@ li{
         background-size: cover;
         margin-bottom: 40px;
     }
-}
+} */
